@@ -1,4 +1,5 @@
 name: Generate Contribution Snake
+# Updates the animated contribution graph on the profile README.
 
 on:
   schedule:
